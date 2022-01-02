@@ -1,3 +1,3 @@
-# IBM-AI-Engineering-Capstone-Project
+# IBM-AI-Engineering-Capstone-Project-1
 
-IBM Watson Studio projects about capstone project.
+Machine Learning with Python course assignment.
